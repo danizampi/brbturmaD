@@ -8,5 +8,8 @@
 }
 
 body{
-    background-color: var(--cor-de-fundo); 
+    background-color: var(--cor-de-fundo);
+    font-family: var(--fonte-principal); 
+    font-size: 10px;
+    font-weight: 400;
 }
